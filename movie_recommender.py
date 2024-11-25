@@ -24,7 +24,7 @@ import streamlit as st
 # In[65]:
 
 
-movies_data=pd.read_csv('/content/TMDB_movie_dataset_v11.csv')
+movies_data=pd.read_csv('C:\Users\shrey\OneDrive\Desktop\ML\TMDB_movie_dataset_v11.csv')
 movies_data.head(3)
 
 
